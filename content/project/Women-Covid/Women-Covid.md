@@ -3,7 +3,7 @@ title: Women at the Universities and the COVID-19 Pandemic.
 summary: EU4+ Project that compares international differences in impact of the pandemic on women at universities. 
 tags:
 - academic
-date: "2021-07-27T00:00:00Z"
+date: "2021-07-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
