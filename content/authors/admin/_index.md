@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-My name is Alexander and am currently pursuing the M.Sc. in Economics at the London School of Economics and Political Science, while previously completing degrees in Economics and Sociology at Heidelberg University. 
+My name is Alexander and I am currently pursuing the M.Sc. in Economics at the London School of Economics and Political Science, while previously completing degrees in Economics and Sociology at Heidelberg University. 
 
 I am interested in Public Policy, Inequality, Environmental Economics, and other issues connected to economics as a social science. Recently, I have written my two bachelor theses on inequality within the pandemic (using spatial regression models) and the determinants of regional public funding. Previously, I have worked as a research and teaching assistant on qualitative and quantitative projects in the realms of Behavioural Economics, Environmental Economics, Gender Studies, and Demographics. 
 
