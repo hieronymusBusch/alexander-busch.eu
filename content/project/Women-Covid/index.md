@@ -1,5 +1,5 @@
 ---
-title: Women at the Universities and the COVID-19 Pandemic. A preliminary comparative research among Italy, Germany, and Poland. 
+title: Women-at-the-Universities-and-the-COVID--19-Pandemic.
 summary: EU4+ Project that compares international differences in impact of the pandemic on women at universities. 
 tags:
 - academic

@@ -1,5 +1,5 @@
 ---
-title: Our city comes together
+title: Our-city-comes-together
 summary: Free online market place for local businesses. 
 tags:
 - non-academic

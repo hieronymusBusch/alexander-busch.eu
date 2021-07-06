@@ -1,5 +1,5 @@
 ---
-title: Bachelor Thesis Sociology
+title: Bachelor-Thesis-Sociology
 summary: Syndemic tendencies? A spatial perspective on COVID-19 and socioeconomic deprivation in Germany. 
 tags:
 - academic
