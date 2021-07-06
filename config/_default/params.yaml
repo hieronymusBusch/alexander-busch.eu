@@ -20,13 +20,9 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: contact@alexandder-busch.eu
+email: contact@alexander-busch.eu
 contact_links:
   - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/_AlexanderBusch'
-  - icon: 
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/_AlexanderBusch'
@@ -39,7 +35,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
