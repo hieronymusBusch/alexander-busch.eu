@@ -9,9 +9,7 @@ date: "2021-07-05T00:00:00Z"
 external_link: ""
 
 links:
-- icon: globe
-  icon_pack: fab
-  name: Website
+- name: Website
   url: http://cbpk.uw.edu.pl/
 url_code: ""
 url_pdf: ""

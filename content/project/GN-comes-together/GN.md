@@ -1,5 +1,5 @@
 ---
-title: Our-city-comes-together
+title: Our city comes together
 summary: Free online market place for local businesses. 
 tags:
 - non-academic
@@ -31,7 +31,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 In the beginning of the Corona-pandemic, some friends and I set up a website for local businesses from Gelnhausen and the surrounding area to help them move parts of their traffic online while their stores were shut down (obviously free of charge). Later on, we led the city administration take over, as it was no longer possible to keep as a side project. Have a look! [GERMAN]
