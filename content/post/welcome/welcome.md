@@ -1,5 +1,5 @@
 ---
-title: New city, new program
+title: New city, new program, new site
 subtitle: I have started my master at LSE. 
 
 # Summary for listings and search engines
