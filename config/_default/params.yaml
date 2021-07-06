@@ -21,20 +21,12 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: contact@alexandder-busch.eu
-phone: -
-address:
-  street: -
-  city: -
-  region: -
-  postcode: '-'
-  country: -
-  country_code: -
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 contact_links:
   - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/_AlexanderBusch'
+  - icon: 
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/_AlexanderBusch'
