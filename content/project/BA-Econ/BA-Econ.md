@@ -1,9 +1,9 @@
 ---
-title: Bachelor-Thesis-Economics
+title: Bachelor Thesis Economics
 summary: The political economy of appliance replacement programs for low-income households. An empirical study.
 tags:
 - academic
-date: "2021-07-27T00:00:00Z"
+date: "2021-07-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
