@@ -8,15 +8,15 @@ date: "2021-07-05T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-#links:
-#- icon: github
-#  icon_pack: fab
-#  name: GitHub Repo
-#  url: https://github.com/hieronymusBusch/BA-Economics
-#url_code: ""
-#url_pdf: ""
-#url_slides: ""
-#url_video: ""
+links:
+- icon: github
+  icon_pack: fab
+  name: GitHub Repo
+  url: https://github.com/hieronymusBusch/BA-Economics
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
