@@ -11,8 +11,12 @@ external_link: ""
 links:
 - icon: github
   icon_pack: fab
-  name: github-square
+  name: GitHub Repo
   url: https://github.com/hieronymusBusch/BA-Sociology
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

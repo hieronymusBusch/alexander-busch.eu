@@ -15,11 +15,11 @@ image:
 links:
 - icon: facebook
   icon_pack: fab
-  name: facebook-square
+  name: Facebook
   url: https://www.facebook.com/unserestadtruecktzusammen
 - icon: globe
   icon_pack: fab
-  name: globe
+  name: Website
   url: https://unsere-stadt-rueckt-zusammen.de/unsere-mission
 url_code: ""
 url_pdf: ""
