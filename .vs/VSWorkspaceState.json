@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\post",
-    "\\content\\post\\welcome",
+    "\\content\\admin",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\project",
-    "\\content\\project\\BA-Sociology",
-    "\\content\\publication",
-    "\\content\\publication\\example",
-    "\\exampleSite",
+    "\\content\\project\\Digital-edu",
+    "\\content\\project\\Women-Covid",
     "\\scripts",
     "\\static"
   ],
-  "SelectedNode": "\\content\\post\\welcome",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

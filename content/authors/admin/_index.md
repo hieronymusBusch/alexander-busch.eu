@@ -74,5 +74,6 @@ My interests are in Public Policy, Inequality, Environmental Economics, and othe
 
 Besides academia, I have interned at the German Ministry of Finance and the German National Parliament (Deutscher Bundestag), where I worked on public policy issues and wittnessed first hand how research is employed in political decision making. 
 
+In my freetime, I like playing football, learning languages, and aid people to organise in their own self-interests. In Germany, I have always perceived unions as constructive partners who balance wage bargaining with large corporations. As board member of the ver.di Baden-Württemberg executive committee on science and research, it was my primary goal to work towards better working conditions in German universities. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
