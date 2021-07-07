@@ -68,11 +68,11 @@ email: ""
 highlight_name: false
 ---
 
-My name is Alexander and I am currently pursuing the M.Sc. in Economics at the London School of Economics and Political Science, while previously completing degrees in Economics and Sociology at Heidelberg University. 
+I am a student pursuing the M.Sc. in Economics at the London School of Economics and Political Science, while previously obtaining degrees in Economics and Sociology at Heidelberg University. 
 
-I am interested in Public Policy, Inequality, Environmental Economics, and other issues connected to economics as a social science. Recently, I have written my two bachelor theses on inequality within the pandemic (using spatial regression models) and the determinants of regional public funding. Previously, I have worked as a research and teaching assistant on qualitative and quantitative projects in the realms of Behavioural Economics, Environmental Economics, Gender Studies, and Demographics. 
+My interests are in Public Policy, Inequality, Environmental Economics, and other issues connected to economics as a social science. Recently, I have written my two bachelor theses on inequality within the pandemic (using spatial regression models) and the determinants of regional public funding. Previously, I have worked as a research and teaching assistant on qualitative and quantitative projects in the realms of Behavioural Economics, Environmental Economics, Gender Studies, and Demographics. 
 
-Besides academia, I have interned at the German Ministry of Finance and the German National Parliament (Deutscher Bundestag) to work on taxation and subsidy schemes and wittness first hand how research is employed in political decision making. 
+Besides academia, I have interned at the German Ministry of Finance and the German National Parliament (Deutscher Bundestag), where I worked on public policy issues and wittnessed first hand how research is employed in political decision making. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
