@@ -74,6 +74,6 @@ My interests are in Public Policy, Inequality, Environmental Economics, and othe
 
 Besides academia, I have interned at the German Ministry of Finance and the German National Parliament (Deutscher Bundestag), where I worked on public policy issues and wittnessed first hand how research is employed in political decision making. 
 
-In my freetime, I like playing football, learning languages, and helping people to unionise. In Germany, I have always perceived trade unions as constructive counterweights to large employers in wage bargeining and warrantors of social harmony. Additionally, unions and the labour movement are the canary in the coal mine of our pluralistic democracy: Scarcely has there been an autocratic regime that did not begin their abuse of power by restricting free unions. 
+In my freetime, I like playing football, learning languages, and helping people to unionise. In Germany, I have always perceived trade unions as constructive counterweights to large employers in wage bargeining and warrantors of social harmony. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
