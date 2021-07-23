@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\config",
+    "\\config\\_default",
     "\\content",
-    "\\content\\admin",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
     "\\content\\project",
     "\\content\\project\\Digital-edu",
     "\\content\\project\\Women-Covid",
     "\\scripts",
     "\\static"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\config\\_default\\menus.yaml",
   "PreviewInSolutionExplorer": false
 }
