@@ -76,4 +76,4 @@ Besides academia, I have interned at the German Ministry of Finance and the Germ
 
 In my freetime, I like playing football, learning languages, and helping people to unionise. In Germany, I have always perceived trade unions as constructive counterweights to large employers in wage bargeining and warrantors of social harmony. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
