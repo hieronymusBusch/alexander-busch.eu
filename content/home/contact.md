@@ -1,31 +1,31 @@
----
+#---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
-cms_exclude: true
+#widget: contact
+#cms_exclude: true
 
 # This file represents a page section.
-headless: true
+#headless: true
 
 # Order that this section appears on the page.
-weight: 40
+#weight: 40
 
-title: Contact
-subtitle:
+#title: Contact
+#subtitle:
 
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
+#content:
+#  # Automatically link email and phone or display as text?
+#  autolink: true
+#  
+#  # Email form provider
+#  form:
+#    provider: netlify
+#    formspree:
+#      id:
+#    netlify:
+#      # Enable CAPTCHA challenge to reduce spam?
+#      captcha: true
   
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
-  
-design:
-  columns: '2'
----
+#design:
+#  columns: '2'
+#---
