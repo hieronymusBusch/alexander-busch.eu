@@ -6,8 +6,9 @@
     "\\content",
     "\\content\\authors",
     "\\content\\authors\\admin",
-    "\\scripts",
-    "\\static"
+    "\\content\\home",
+    "\\content\\publication"
   ],
+  "SelectedNode": "\\content\\home\\index.md",
   "PreviewInSolutionExplorer": false
 }
