@@ -38,4 +38,4 @@ categories:
 - academic
 ---
 
-New city, new program, new website: I have taken a free day during my current internship to upload this little site with some information on projects and my CV. 
+New city, new program, new website: I have taken a free day to create this little site with some info about: me. 
