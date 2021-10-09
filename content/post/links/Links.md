@@ -40,28 +40,28 @@ categories:
 
 German Administrative Data: 
 
-German Census 2011 / 2022
-https://www.zensus2011.de/
-https://www.zensus2022.de/
-• Aggregated on city-level 
-• Data on religious beliefs, demographics, job, ...
-• Max. 5 variables at the same time
+German Census 2011 / 2022 <br>
+https://www.zensus2011.de/ <br>
+https://www.zensus2022.de/ <br>
+• Aggregated on city-level <br>
+• Data on religious beliefs, demographics, job, ... <br>
+• Max. 5 variables at the same time <br>
 
-Regional Database Germany
-https://www.regionalstatistik.de/genesis/online
-• Data aggregated on NUTS3 level 
-• Data on elections, education, social services, companies, ...
+Regional Database Germany <br>
+https://www.regionalstatistik.de/genesis/online <br>
+• Data aggregated on NUTS3 level <br>
+• Data on elections, education, social services, companies, ... <br>
 
-INKAR 
-https://www.inkar.de/
-• Data aggregated on NUTS3 level
-• Data on social indicators (unemployment, ...), housing, demography, medical systems, traffic, ...
+INKAR <br>
+https://www.inkar.de/ <br>
+• Data aggregated on NUTS3 level <br>
+• Data on social indicators (unemployment, ...), housing, demography, traffic, ... <br>
 
 
-Official German Shape-Files
-https://gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete.html
-• Shapefiles on city and NUTS levels
-• Shapefiles allow to create digital maps
+Official German Shape-Files <br>
+https://gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete.html <br>
+• Shapefiles on city and NUTS levels <br>
+• Shapefiles allow to create digital maps <br>
 
 
 
