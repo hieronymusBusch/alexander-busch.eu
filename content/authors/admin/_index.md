@@ -70,7 +70,7 @@ highlight_name: false
 
 I am a student pursuing the M.Sc. in Economics at the London School of Economics and Political Science, while previously obtaining degrees in Economics and Sociology at Heidelberg University. I grew up in Gelnhausen, a lovely old town situated in the hessian Kinzig Valley. 
 
-My interests are in Public Policy, Inequality, Environmental Economics, and other issues connected to economics as a social science. Recently, I have written my two bachelor theses on inequality within the pandemic (using spatial regression models) and the determinants of regional public funding. Previously, I have worked as a research and teaching assistant on qualitative and quantitative projects in the realms of Behavioural Economics, Environmental Economics, Gender Studies, and Demographics. 
+My interests are in Public and Labour Economics, such as inequality or un(der)employment, and other issues connected to economics as a social science. I have written my two bachelor theses on inequality within the pandemic and the determinants of public funding. Previously, I have worked as a research and teaching assistant on qualitative and quantitative projects in the realms of Behavioural Economics, Environmental Economics, Gender Studies, and Demographics. 
 
 Besides academia, I have interned at the German Ministry of Finance and the German National Parliament (Deutscher Bundestag), where I worked on public policy issues and wittnessed first hand how research is employed in political decision making. 
 

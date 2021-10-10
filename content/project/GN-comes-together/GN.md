@@ -32,4 +32,4 @@ url_video: ""
 slides: ""
 ---
 
-In the beginning of the Corona-pandemic, some friends and I set up a website for local businesses from Gelnhausen and the surrounding area to help them move parts of their traffic online while their stores were shut down (obviously free of charge). Later on, we led the city administration take over, as it was no longer possible to keep as a side project. Have a look! [GERMAN]
+In the beginning of the Corona-pandemic, some friends and I set up a website for local businesses from Gelnhausen and the surrounding area to help them move parts of their traffic online while their stores were shut down (obviously free of charge). Later on, we handed the project over to the city administration, as it was no longer possible to keep as a side project. Have a look! [Website in GERMAN]
