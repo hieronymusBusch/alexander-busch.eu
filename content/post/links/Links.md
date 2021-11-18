@@ -38,7 +38,7 @@ categories:
 - academic
 ---
 
-German Administrative Data
+<b> German Administrative Data </b> <br>
 
 German Census 2011 / 2022 <br>
 https://www.zensus2011.de/ <br>
@@ -68,11 +68,11 @@ https://fdz.iab.de/en/FDZ_Individual_Data.aspx <br>
 
 Non-official access to federal API's <br>
 https://bund.dev/ <br>
-• Documents / shares several API by German ministries and other official authorities <br>
-• E.g. waether data, traffic jams, job openings, air quality ... <br>
+• Documents several API by German ministries and other official authorities <br>
+• E.g. weather data, traffic jams, job openings, air quality ... <br>
 
 
-German Survey Data <br>
+<b> German Survey Data </b> <br>
 
 (G-)SOEP (Socioeconomic Panel) <br>
 https://www.diw.de/en/diw_01.c.678568.en/research_data_center_soep.html <br>
@@ -82,7 +82,7 @@ http://companion.soep.de/index.html <br>
 
 Pairfam <br>
 https://www.pairfam.de/ <br>
-• Panel on cohorts ('71-'73, '81-'83, '91-'93, '01-'03; with ca n=3,000 each), focus on family / partnership <br>
+• Panel on cohorts ('71-'73, ..., '01-'03; with ca n=3,000 each) on family / partnership <br>
 
 Other German panel studies <br>
 https://paneldata.org/ <br>
