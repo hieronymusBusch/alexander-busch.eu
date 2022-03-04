@@ -75,5 +75,3 @@ My interests are in the fields of Public and Labour Economics, such as gender an
 Outside academia, I had the privilege to see how academic advise is interpreted and implemented by policy makers in the German Parliament and Ministry of Finance. 
 
 In my free time, I enjoy playing and watching football, learning languages, and support people to unionise. 
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
