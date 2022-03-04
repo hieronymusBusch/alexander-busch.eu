@@ -10,20 +10,19 @@ headless: true
 weight: 100
 
 # Section title
-title: contact
+title: Contact
 
 # Section subtitle
-subtitle:
+subtitle: ''
 
 # Section design
 design:
   # Use a 1-column layout
-  columns: "1"
+  columns: "2"
   # Use a white background without light text.
   background:
     color: 'white'
     text_color_light: false
 ---
 
-Contact me at 
-link: 'mailto:busch-alexander@gmx.net'
+Feel free to reach out to me via busch minus alexander at gmx dot net
