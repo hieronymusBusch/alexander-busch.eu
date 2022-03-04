@@ -8,3 +8,9 @@ content
 	
 	> post
 		> posts (e.g. welcome, links)
+static
+	> uploads
+		> resume (pdf)
+config
+	> _default
+		> files for which subsites to include etc

@@ -14,14 +14,14 @@ organizations:
   url: https://www.lse.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in research within the domains of environmental and public economics, as well as demography and (spatial) econometrics. 
+bio: I am interested in research within the domains of labour and public economics, as well as demography and spatial econometrics. 
 
 # Interests to show in About widget
 interests:
 - Labour Economics
 - Public Economics
 - Demography
-- (Spatial) Econometrics
+- Spatial Econometrics
 
 # Education to show in About widget
 education:
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:contact@alexander-busch.eu'
+  link: 'mailto:busch-alexander@gmx.net'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_AlexanderBusch
@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,12 +68,12 @@ email: ""
 highlight_name: false
 ---
 
-I am pursuing the M.Sc. in Economics at the London School of Economics and Political Science. Previously, I studied Economics and Sociology at Heidelberg University. I grew up in Gelnhausen, a lovely old town situated in the Hessian Kinzig Valley. 
+I am pursuing the M.Sc. in Economics at the London School of Economics and Political Science. Previously, I studied Economics and Sociology at Heidelberg University. I grew up in Gelnhausen, a lovely old town situated in the Hessian Kinzig Valley east of Frankfurt. 
 
-My interests are in the fields of Public and Labour Economics, such as inequality or un(der)employment, and other issues connected to economics as a social science. I have written my two bachelor theses on inequality within the pandemic and the determinants of public funding. Previously, I have worked as a research and teaching assistant on qualitative and quantitative projects in the realms of Behavioural Economics, Environmental Economics, (Macro) Labour Economics, Gender Studies, and Demographics. 
+My interests are in the fields of Public and Labour Economics, such as gender and income inequality and the policies associated with the fights against them. I have written my two bachelor theses on the regional inequalities within the pandemic and welfare policy. Since 2019, I have worked as research and teaching assistant on a range of quantitative projects of which the majority may broadly be summarised under the umbrella term of ''applied microeconomics'' (e.g. gender and environmental economics, demography). 
 
-Besides academia, I have interned at the German Ministry of Finance and the German National Parliament, where I worked on policy issues and witnessed first hand how research is employed in political decision making. 
+Outside academia, I had the privilege to see how academic advise is interpreted and implemented by policy makers in the German Parliament and Ministry of Finance. 
 
-In my freetime, I enjoy playing football, learning languages, and helping people to unionise. 
+In my free time, I enjoy playing and watching football, learning languages, and support people to unionise. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
