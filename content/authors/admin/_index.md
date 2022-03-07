@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc Candidate in Economics
+  - course: MSc in Economics Candidate
     institution: London School of Economics and Political Science
-    year: 2021
+    year: 2022
   - course: BSc in Economics
     institution: Heidelberg University
     year: 2021
@@ -70,7 +70,7 @@ highlight_name: false
 
 I am pursuing the M.Sc. in Economics at the London School of Economics and Political Science. Previously, I studied Economics and Sociology at Heidelberg University. I grew up in Gelnhausen, a lovely old town situated in the Hessian Kinzig Valley east of Frankfurt. 
 
-My interests are in the fields of Public and Labour Economics, such as gender and income inequality and the policies associated with the fights against them. I have written my two bachelor theses on the regional inequalities within the pandemic and welfare policy. Since 2019, I have worked as research and teaching assistant on a range of quantitative projects of which the majority may broadly be summarised under the umbrella term of ''applied microeconomics'' (e.g. gender and environmental economics, demography). 
+My interests are in the fields of Public and Labour Economics, such as gender and income inequality and the policies associated with the fights against them. I have written my two bachelor theses on the regional inequalities within the pandemic and welfare policy. Since 2019, I have worked as research and teaching assistant on a range of quantitative projects of which the majority may broadly be summarised under the umbrella term of ''applied microeconomics'' (e.g. in gender and environmental economics, demography). 
 
 Outside academia, I had the privilege to see how academic advise is interpreted and implemented by policy makers in the German Parliament and Ministry of Finance. 
 
