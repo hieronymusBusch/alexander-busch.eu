@@ -1,9 +1,9 @@
 ---
-title: Links to (German) Data
-subtitle: A small collection, mainly for myself. 
+title: LaTeX Overleaf Templates
+subtitle: No guarantees, but maybe helpful resources.
 
 # Summary for listings and search engines
-summary: Links to (German) Data. 
+summary: Templates for academic CVs and papers 
 
 # Link this post with a project
 projects: []
@@ -38,61 +38,22 @@ categories:
 - academic
 ---
 
-<b> German Administrative Data </b> <br>
 
-German Census 2011 / 2022 <br>
-https://www.zensus2011.de/ <br>
-https://www.zensus2022.de/ <br>
-• Aggregated on city-level <br>
-• Data on religious beliefs, demographics, job, ... <br>
-• Max. 5 variables at the same time <br>
+<b> All links to Overleaf Templates </b> <br>
 
-Regional Database Germany <br>
-https://www.regionalstatistik.de/genesis/online <br>
-• Data aggregated on NUTS3 level <br>
-• Data on elections, education, social services, companies, ... <br>
+You can copy the files to your own compiler, such as Overleaf. <br>
+The documentation is at times messy, sometimes German - it is not perfect (yet)! <br>
+I also want to note that these templates are my adaptations of other <br>
+templates, which again are probably inspired by previous works. <br>
 
-INKAR <br>
-https://www.inkar.de/ <br>
-• Data aggregated on NUTS3 level <br>
-• Data on social indicators (unemployment, ...), housing, demography, traffic, ... <br>
+Academic CV <br>
+https://www.overleaf.com/read/bwhkjfrptpbx <br>
 
-Official German Shape-Files <br>
-https://gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete.html <br>
-• Shapefiles on city and NUTS levels <br>
-• Shapefiles allow to create digital maps <br>
+Thesis (long) <br>
+https://www.overleaf.com/read/vmvgsmkmdvvq <br>
 
-Labour Market Data by IAB <br>
-https://fdz.iab.de/en/FDZ_Individual_Data.aspx <br>
-• Admininstrative data on `customers' of Employment Agencies, social security data, ... <br>
-
-Non-official access to federal API's <br>
-https://bund.dev/ <br>
-• Documents several API by German ministries and other official authorities <br>
-• E.g. weather data, traffic jams, job openings, air quality ... <br>
-
-
-<b> German Survey Data </b> <br>
-
-(G-)SOEP (Socioeconomic Panel) <br>
-https://www.diw.de/en/diw_01.c.678568.en/research_data_center_soep.html <br>
-http://companion.soep.de/index.html <br>
-• Large panel (n>30,000), started in the 1980's, all kinds of microdata <br>
-• Special surveys, e.g. of refugees, COVID-19 related, ... <br>
-
-Pairfam <br>
-https://www.pairfam.de/ <br>
-• Panel on cohorts ('71-'73, ..., '01-'03; with ca n=3,000 each) on family / partnership <br>
-
-Other German panel studies <br>
-https://paneldata.org/ <br>
-
-ALLBUS <br> 
-https://www.gesis.org/en/allbus/download <br>
-• German representative survey, n=3,000, starting in 1990 every two years randomly drawn <br>
-• Core questions and changeing questionnaires (e.g. on health) <br>
-
-
+Essay (short) <br>
+https://www.overleaf.com/read/ksnfpsmjrxdd <br>
 
 
 
