@@ -9,10 +9,10 @@ summary: LaTeX Overleaf Templates: CV, Essay, Thesis
 projects: []
 
 # Date published
-date: "2022-04-18T00:00:00Z"
+date: "2022-04-01T00:00:00Z"
 
 # Date updated
-lastmod: "2021-11-17T00:00:00Z"
+lastmod: "2022-04-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
