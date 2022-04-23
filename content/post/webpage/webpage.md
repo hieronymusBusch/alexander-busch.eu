@@ -1,7 +1,6 @@
 ---
 title: How to reproduce a website like this
 summary: A short summary of links and resources I used to create this website. 
-tags:
 
 # Summary for listings and search engines
 summary: Links to (German) Data. 
