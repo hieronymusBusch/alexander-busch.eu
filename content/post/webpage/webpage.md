@@ -37,9 +37,9 @@ categories:
 - academic
 ---
 
-Now, there are tons of resources to create a simple and personal website. For example Google Sites, Github Pages, and many more. If you want to have a look at how this specific website runs, here is a collection of helpful links. <br>
+There are tons of resources to create a simple and personal website. For example Google Sites, Github Pages, and many more. If you want to have a look at how this specific website runs, here is a collection of helpful links. <br>
 
-This website uses the Hugo academic theme by Wowchemy. Hugo is an open source framework for static websites. I linked this site to a Github repository so that I can edit this website simply with RStudio, push my changes to Github, and have these instantly implemented at the site. All of this is neatly explained by Wowchemy below. If you already have a domain, hosting, and encryption certificates, you may want to transfer your certificates to your actual website via Netify. The final website describes how to do this if your hosting offers you the cPanel dashboard. <br>
+This website uses the Hugo academic theme by Wowchemy. Hugo is an open source framework for static websites. I linked this site to a Github repository so that I can edit this website simply with RStudio, push my changes to Github, and have these instantly implemented. All of this is neatly explained by Wowchemy below. If you already have a domain, hosting, and encryption certificates, you may want to transfer your certificates to your actual website via Netify. The final website describes how to do this if your hosting offers you the cPanel dashboard. <br>
 
 Hugo<br>
 https://gohugo.io/<br>

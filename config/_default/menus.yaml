@@ -19,6 +19,6 @@ main:
 
 # Link to a PDF ofyour resume/CV from the menu.
   - name: CV
-    url: 'https://drive.google.com/file/d/1slY5ywmE4mUcyYfY4mJbnWkdf5-rMqrx/view'
+    url: 'https://drive.google.com/file/d/1rBDsWU4oxoHJ4gq-tsOtty1PWsBrRd_i/view?usp=sharing'
 #    url: uploads/resume.pdf
     weight: 40

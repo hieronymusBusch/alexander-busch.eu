@@ -67,10 +67,10 @@ https://fdz.iab.de/en/FDZ_Individual_Data.aspx <br>
 • Admininstrative data on `customers' of Employment Agencies, social security data, ... <br>
 
 Micro Census / Forschungsdatenzentrum <br>
-https://www.forschungsdatenzentrum.de/de/haushalte/mikrozensus
-• Similar to Current Population Survey: 1% sample of German households
-• Data on wages and demographics
-• Other admin. statistics on firms, federal demographics, ... on the webpage of the FDZ
+https://www.forschungsdatenzentrum.de/de/haushalte/mikrozensus <br>
+• Similar to Current Population Survey: 1% sample of German households <br>
+• Data on wages and demographics <br>
+• Other admin. statistics on firms, federal demographics, ... on the webpage of the FDZ <br>
 
 Non-official access to federal API's <br>
 https://bund.dev/ <br>
