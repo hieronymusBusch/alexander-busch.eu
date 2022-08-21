@@ -6,7 +6,7 @@ title: Alexander Busch
 superuser: true
 
 # Role/position/tagline
-role: MSc Candidate in Economics
+role: Predoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,6 +72,6 @@ I am currently preparing for a PhD in economics as pre-doc at IZA Bonn and incom
 
 My interests are in the fields of Public and Labour Economics, especially inequality and labour market institutions such as trade unions, work councils, and schools. I have written my two bachelor theses on the regional inequalities of the pandemic and welfare policy. My master thesis centered on the question of whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. Since 2019, I have worked as research and teaching assistant on a range of quantitative projects which may broadly be summarised under the umbrella term of ''applied microeconomics'' (e.g. in gender and environmental economics, demography). 
 
-Outside academia, I had the privilege to see how academic advise is implemented by policy makers in the German and Hessian Parliaments, as well as the German Ministry of Finance. 
+Outside academia, I had the privilege to work on evidence-based policy design as intern in the German Ministry of Finance, and the German and Hessian Parliaments. 
 
-In my free time, I enjoy playing and watching football, reading, and supporting people to unionise. 
+In my free time, I enjoy music festivals, playing and watching football, reading, and supporting people in their efforts to democratise their work places. 
