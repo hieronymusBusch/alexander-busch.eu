@@ -18,7 +18,7 @@ bio: I am interested in research within the domains of micro and labour economic
 
 # Interests to show in About widget
 interests:
-- Micro Economics
+- Microeconomics
 - Labour Economics
 - Economics of Education
 - Industrial Relations
@@ -73,7 +73,7 @@ highlight_name: false
 
 I am currently preparing for a PhD in economics as pre-doc at IZA Bonn and incoming visiting student researcher at UC Berkeley. Previously, I studied Economics and Sociology at LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town situated in the Hessian Kinzig Valley east of Frankfurt. 
 
-My interests are in Micro Economics and Labour Economics - especially education and industrial relations. One example that demonstrates this interest is my master thesis on the whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. Another project I am pursuing is to use administrative data to better understand factors contributing to the decline of organised labour since the 1980's. 
+My interests are in Microeconomics and Labour Economics - especially education and industrial relations. One example that demonstrates this interest is my master thesis on the whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. Another project I am pursuing is to use administrative data to better understand factors contributing to the decline of organised labour since the 1980's. 
 
 Outside academia, I had the privilege to work on evidence-based policy design as intern in the German Ministry of Finance, and the German and Hessian Parliaments. 
 
