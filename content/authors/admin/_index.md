@@ -6,26 +6,29 @@ title: Alexander Busch
 superuser: true
 
 # Role/position/tagline
-role: Predoctoral Research Associate
+role: Predoctoral Research Associate at IZA
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: London School of Economics and Political Science
-  url: https://www.lse.ac.uk/
+- name: IZA - Institute of Labor Economics
+  url: https://www.iza.org/people/staff/32795/alexander-busch
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in research within the domains of labour and public economics, as well as demography and spatial econometrics. 
+bio: I am interested in research within the domains of micro and labour economics, such as the economics of education and industrial relations. 
 
 # Interests to show in About widget
 interests:
+- Micro Economics
 - Labour Economics
-- Public Economics
-- Demography
-- Spatial Econometrics
+- Economics of Education
+- Industrial Relations
 
 # Education to show in About widget
 education:
   courses:
+  - course: MSc in Economic Research Candidate (selected classes)
+    institution: University of Bonn
+    year: 2024
   - course: MSc in Economics
     institution: London School of Economics and Political Science
     year: 2022
@@ -68,10 +71,10 @@ social:
 highlight_name: false
 ---
 
-I am currently preparing for a PhD in economics as pre-doc at IZA Bonn and incoming visiting student researcher at UC Berkeley. Previously, I studied Economics and Sociology at LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely old town situated in the Hessian Kinzig Valley east of Frankfurt. 
+I am currently preparing for a PhD in economics as pre-doc at IZA Bonn and incoming visiting student researcher at UC Berkeley. Previously, I studied Economics and Sociology at LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town situated in the Hessian Kinzig Valley east of Frankfurt. 
 
-My interests are in the fields of Public and Labour Economics, especially inequality and labour market institutions such as trade unions, work councils, and schools. I have written my two bachelor theses on the regional inequalities of the pandemic and welfare policy. My master thesis centered on the question of whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. Since 2019, I have worked as research and teaching assistant on a range of quantitative projects which may broadly be summarised under the umbrella term of ''applied microeconomics'' (e.g. in gender and environmental economics, demography). 
+My interests are in Micro Economics and Labour Economics - especially education and industrial relations. One example that demonstrates this interest is my master thesis on the whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. Another project I am pursuing is to use administrative data to better understand factors contributing to the decline of organised labour since the 1980's. 
 
 Outside academia, I had the privilege to work on evidence-based policy design as intern in the German Ministry of Finance, and the German and Hessian Parliaments. 
 
-In my free time, I enjoy music festivals, playing and watching football, reading, and supporting people in their efforts to democratise their work places. 
+In my free time, I started playing the piano (again), enjoy music festivals, playing and watching football, reading, and supporting people in their efforts to democratise their work places. 
