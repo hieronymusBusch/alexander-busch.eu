@@ -73,8 +73,8 @@ highlight_name: false
 
 I am currently preparing for a PhD in economics as pre-doc at IZA Bonn and incoming visiting student researcher at UC Berkeley. Previously, I studied Economics and Sociology at LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town situated in the Hessian Kinzig Valley east of Frankfurt. 
 
-My interests are in Microeconomics and Labour Economics - especially education and industrial relations. One example that demonstrates this interest is my master thesis on the whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. Another project I am pursuing is to use novel data to better understand the role of organised labour in western economies. 
+My interests are in Microeconomics and Labour Economics - especially education and industrial relations. One example that demonstrates this interest is my master thesis on whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. Another project I am pursuing is to use novel data to better understand the role of organised labour in western economies. 
 
-Outside academia, I had the privilege to work on evidence-based policy design as intern in the German Ministry of Finance, and the German and Hessian Parliaments. 
+Outside academia, I had the privilege to work on evidence-based policy advocacy at the German Ministry of Finance, ver.di (united services trade union), and the German and Hessian Parliaments. 
 
-In my free time, I started playing the piano (again), enjoy music festivals, playing and watching football, reading, and supporting people in their efforts to democratise their work places. 
+In my free time I started playing the piano (again), enjoy music festivals, playing and watching football, reading, and supporting people in their efforts to democratise their work place. 
