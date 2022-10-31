@@ -25,4 +25,4 @@ design:
     text_color_light: false
 ---
 
-Feel free to reach out to me via busch minus alexander at gmx dot net
+Feel free to reach out to me via contact at alexander minus busch dot eu
