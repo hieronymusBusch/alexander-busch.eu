@@ -64,7 +64,8 @@ social:
   icon_pack: ai
   link: uploads/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# Enter email to display Gravatar (if Gravatar enabled in Config)     In my free time I started playing the piano (again), enjoy music festivals, playing and watching football, reading, and supporting people in their efforts to democratise their work place. 
+
 #email: ""
 
 # Highlight the author in author lists? (true/false)
@@ -78,4 +79,3 @@ My interests are in Microeconomics and Labour Economics - especially education, 
 Outside academia, I had the privilege to work on evidence-based policy advocacy at the German Ministry of Finance, ver.di (united services trade union), and the German and Hessian Parliaments. 
 
 ---
-# In my free time I started playing the piano (again), enjoy music festivals, playing and watching football, reading, and supporting people in their efforts to democratise their work place. 
