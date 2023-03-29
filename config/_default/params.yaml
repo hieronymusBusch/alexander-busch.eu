@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: 'Alexander Busch'
-description: 'Personal webpage of Alexander Busch, economics student at the London School of Economics and Political Science (prev. Heidelberg University)'
+description: 'Personal webpage of Alexander Busch, Predoc at UC Berkeley and IZA Bonn'
 twitter: 'https://mobile.twitter.com/_AlexanderBusch'
 
 # Contact (edit or remove options as required)
@@ -85,10 +85,10 @@ avatar:
 publications:
   date_format: January 2006
   citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
+#projects:
+#  post_view: 2
+#  publication_view: 2
+#  talk_view: 2
 breadcrumb:
   page_types:
     book: true
