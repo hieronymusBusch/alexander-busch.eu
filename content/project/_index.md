@@ -2,6 +2,7 @@
 title: Projects
 cms_exclude: true
 draft: true
+headless = true
 
 # View.
 #   1 = List
