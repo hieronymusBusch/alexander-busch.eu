@@ -1,5 +1,5 @@
 ---
-headless = true
+headless: true
 draft: true
 
 title: Projects
