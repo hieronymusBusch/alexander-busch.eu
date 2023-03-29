@@ -14,14 +14,14 @@ organizations:
   url: https://www.iza.org/people/staff/32795/alexander-busch
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in research within the domains of microeconomics and labour economics, such as the economics of education and industrial relations. 
+bio: I am interested in labour studies, especially the economics of education and industrial relations. 
 
 # Interests to show in About widget
 interests:
 - Microeconomics
 - Labour Economics
 - Economics of Education
-- Industrial Relations / Corporate Governance
+- Industrial Relations 
 
 # Education to show in About widget
 education:
@@ -72,9 +72,9 @@ social:
 highlight_name: false
 ---
 
-I am currently preparing for my PhD as pre-doc at UC Berkeley & IZA Bonn. Previously, I studied Economics and Sociology at LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town situated in the Hessian Kinzig Valley east of Frankfurt. 
+I am currently preparing for my PhD as pre-doc at UC Berkeley & IZA Bonn. Previously, I studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town situated in the Hessian Kinzig Valley east of Frankfurt. 
 
-My interests are in Microeconomics and Labour Economics - especially education, industrial relations, and corporate governance. For example, my master thesis centres on whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. 
+My interests are in Microeconomics and Labour Economics - especially education and industrial relations. For example, my master thesis centres on whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. 
 
 Outside academia, I had the privilege to work on evidence-based policy advocacy at the German Ministry of Finance, ver.di (united services trade union), and the German and Hessian Parliaments. 
 
