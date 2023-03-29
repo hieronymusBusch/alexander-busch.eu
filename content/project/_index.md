@@ -1,6 +1,6 @@
 ---
-headless: true
-draft: true
+#headless: true
+#draft: true
 
 title: Projects
 cms_exclude: true
