@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Selected Course Work MRes Economics
+  - course: Selected Course Work MSc Economics
     institution: Bonn Graduate School of Economics
     year: 2024
   - course: MSc in Economics
@@ -72,7 +72,7 @@ social:
 highlight_name: false
 ---
 
-I am currently preparing for my PhD as pre-doc at UC Berkeley & IZA Bonn. Previously, I studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town situated in the Hessian Kinzig Valley east of Frankfurt. 
+I am currently preparing for my PhD as pre-doc at UC Berkeley & MIT / IZA Bonn. Previously, I studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town situated in the Hessian Kinzig Valley east of Frankfurt. 
 
 My interests are in Microeconomics and Labour Economics - especially education and industrial relations. For example, my master thesis centres on whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. 
 

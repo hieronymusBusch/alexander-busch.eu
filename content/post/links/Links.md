@@ -12,7 +12,7 @@ projects: []
 date: "2021-10-08T00:00:00Z"
 
 # Date updated
-lastmod: "2021-11-17T00:00:00Z"
+lastmod: "2023-04-05T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -60,22 +60,41 @@ https://www.inkar.de/ <br>
 Official German Shape-Files <br>
 https://gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete.html <br>
 • Shapefiles on city and NUTS levels <br>
-• Shapefiles allow to create digital maps <br>
+
+(German) Geolocations <br>
+http://www.geonames.org/export/ <br>
+• E.g. longitude and latitude of cities worldwide <br>
 
 Labour Market Data by IAB <br>
-https://fdz.iab.de/en/FDZ_Individual_Data.aspx <br>
+https://fdz.iab.de/en/our-data-products/
 • Admininstrative data on `customers' of Employment Agencies, social security data, ... <br>
+• 2% Sample SIAB of employer-employee matched data set can be matched with AKM effects from complete data
+• many linkages to surveys (SOEP, LPP, Betriebspanel) available
 
-Micro Census / Forschungsdatenzentrum <br>
+Micro Census <br>
 https://www.forschungsdatenzentrum.de/de/haushalte/mikrozensus <br>
-• Similar to Current Population Survey: 1% sample of German households <br>
+• Similar to Current Population Survey: 1% sample of German households, though cross-sectional <br>
 • Data on wages and demographics <br>
 • Other admin. statistics on firms, federal demographics, ... on the webpage of the FDZ <br>
+
+Deutsches Zentrum für Hoschul- und Wissenschaftsforschung DZHW <br>
+https://metadata.fdz.dzhw.eu/de/search?page=1&size=10&type=data_packages <br>
+• Several (panel) data sets on university students and graduates
+
+Nationales Bildungspanel NEPS <br> 
+https://www.neps-data.de/Datenzentrum/Daten-und-Dokumentation
+• Several panel data sets on student / graduate cohorts (linked to IAB matched EE data)
 
 Non-official access to federal API's <br>
 https://bund.dev/ <br>
 • Documents several API by German ministries and other official authorities <br>
 • E.g. weather data, traffic jams, job openings, air quality ... <br>
+
+German Pension Insurance Data <br> 
+https://www.eservice-drv.de/FdzPortalWeb/dispcontent.do?id=main_fdz_forschung&chmenu=ispvwNavEntriesByHierarchy27 <br> 
+• Different samples from German pension insurance data 
+• Some include employer identifier & other information from IAB 
+• Linkable to G-SOEP  
 
 
 <b> German Survey Data </b> <br>
@@ -97,6 +116,9 @@ https://www.pairfam.de/ <br>
 
 Other German panel studies <br>
 https://paneldata.org/ <br>
+
+<b> List of European Data Sources </b> <br>
+https://webs.uab.cat/incasi/en/european-data-sources/
 
 
 
