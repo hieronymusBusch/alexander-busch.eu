@@ -10,8 +10,7 @@ role: Predoctoral Research Associate at
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: IZA - Institute of Labor Economics & UC Berkeley
-  url: https://www.iza.org/people/staff/32795/alexander-busch
+- name: MIT & UC Berkeley
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in labour studies, especially the economics of education and industrial relations. 
