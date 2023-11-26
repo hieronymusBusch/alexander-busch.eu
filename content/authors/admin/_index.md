@@ -26,9 +26,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Selected Course Work MSc Economics
-    institution: Bonn Graduate School of Economics
-    year: 2024
   - course: MSc in Economics
     institution: The London School of Economics and Political Science
     year: 2022
@@ -47,6 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:contact@alexander-busch.eu'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:alexander1busch@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_AlexanderBusch
@@ -72,10 +72,17 @@ social:
 highlight_name: false
 ---
 
-I am currently preparing for my PhD as pre-doc at UC Berkeley & MIT / IZA Bonn. Previously, I studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town situated in the Hessian Kinzig Valley east of Frankfurt. 
+I am preparing for my PhD as pre-doc at UC Berkeley & MIT. Previously, I studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town situated in the Hessian Kinzig Valley east of Frankfurt. 
 
-My interests are in Microeconomics and Labour Economics - especially education and industrial relations. For example, my master thesis centres on whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. 
+My interests are in Microeconomics and Labour Economics - especially education and industrial relations. 
 
-Outside academia, I had the privilege to work on evidence-based policy advocacy at the German Ministry of Finance, ver.di (united services trade union), and the German and Hessian Parliaments. 
+A recent project of mine is to assess whether ''compressing'' education (same content in fewer years) has an impact on labour market outcomes of students. By evaluating a staggered education reform in Germany which reduced schooling by one year but kept the curriculum constant, I find that the compression was successful and did not affect the returns to education. On the other hand, many graduates delayed their labour market entry post-reform. The average job entry age only decreased by 6 months instead of a full year. This explains the otherwise puzzling result of a constant wage penalty in the within-graduation cohort comparison (-12%), but a constant wage premium in the within-birth cohort comparison (+10%). Please reach out for a first draft of the paper! 
+
+My other research concerns the ''returns'' to strikes and codetermination. 
+
+Jointly with Chantal Pezold, I run an online reading group on labour market institutions for PhD students and post-docs. While we keep this group at a limited size to allow for productive discussions, feel free to reach out if you are interested in joining. 
+
+Outside academia, I had the privilege to work on evidence-based policy advocacy at the German Ministry of Finance, ver.di (united services trade union), and the German and Hessian Parliaments. I am head of climate policy at Fiscal Future, a Berlin-based think tank for progressive fiscal policy. 
+
 
 ---
