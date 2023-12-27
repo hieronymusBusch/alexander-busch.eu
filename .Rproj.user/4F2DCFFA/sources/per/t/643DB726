@@ -1,0 +1,26 @@
+{
+    "id": "643DB726",
+    "path": "~/GitHub/alexander-busch.eu/config/_default/config.yaml",
+    "project_path": "config/_default/config.yaml",
+    "type": "yaml",
+    "hash": "1281233357",
+    "contents": "",
+    "dirty": false,
+    "created": 1680056583793.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,10",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675979552,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675979552,
+    "read_only": false,
+    "read_only_alternatives": []
+}
