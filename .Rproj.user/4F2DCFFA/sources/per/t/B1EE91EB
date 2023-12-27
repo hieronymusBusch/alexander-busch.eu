@@ -3,7 +3,7 @@
     "path": "~/GitHub/alexander-busch.eu/content/authors/admin/_index.md",
     "project_path": "content/authors/admin/_index.md",
     "type": "markdown",
-    "hash": "2502232044",
+    "hash": "3658175666",
     "contents": "",
     "dirty": false,
     "created": 1675979715288.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "79,300",
-        "scrollLine": "71"
+        "cursorPosition": "24,20",
+        "scrollLine": "15"
     },
     "folds": "",
-    "lastKnownWriteTime": 1703652875,
+    "lastKnownWriteTime": 1703655337,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1703652875004,
+    "last_content_update": 1703655337,
     "read_only": false,
     "read_only_alternatives": []
 }

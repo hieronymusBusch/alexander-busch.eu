@@ -3,7 +3,7 @@
     "path": "~/GitHub/alexander-busch.eu/config/_default/menus.yaml",
     "project_path": "config/_default/menus.yaml",
     "type": "yaml",
-    "hash": "1505361594",
+    "hash": "898552386",
     "contents": "",
     "dirty": false,
     "created": 1680056781824.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1675979552,
+    "lastKnownWriteTime": 1703669345,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1675979552,
+    "last_content_update": 1703669345,
     "read_only": false,
     "read_only_alternatives": []
 }
