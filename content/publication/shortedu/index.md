@@ -24,7 +24,9 @@ abstract: What is the impact of "compressing" education -- teaching the same con
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- labour economics, economics of education, returns to education
+- Labour Economics
+- Economics of Education
+- Returns to Education
 featured: false
 
 # links:

@@ -15,8 +15,8 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["software"]
 
 # Publication name and optional abbreviated publication name.
-publication: "LPDID: Stata module implementing Local Projections Difference-in-Differences (LP-DiD)"
-publication_short: "lpdid"
+publication: "SSC"
+publication_short: ""
 
 abstract: LPDID performs the Local Projections Difference-in-Differences estimator (LP-DiD) proposed by Dube, Girardi, Jordà and Taylor (2023). LP-DiD is a convenient and flexible regression-based framework for implementing Difference-in-Differences with multiple time periods. It uses panel data to estimate the average effect of a treatment under the assumptions of no-anticipation and (conditional) parallel trends. It can provide both dynamic event study estimates that track the treatment effect path at each time horizon after treatment, and 'pooled' estimates of the overall average effect in a post-treatment time window. Treatment can be absorbing (once a unit gets treated, it stays treated) or non-absorbing (units can enter and exit treatment multiple times). If treatment is non-absorbing, the nonabsorbing() option must be specified. The estimation sample is restricted to units entering treatment and 'clean' controls, thus avoiding the 'negative-weights' bias of TWFE estimators. The baseline version estimates a variance-weighted effect with strictly positive weights. The reweighed version (implemented through the rw option) estimates an equally-weighted average effect. LP-DiD offers flexibility in using either the last period before treatment (the default option) or an average of pre-treatment periods (the pmd() option) as the pre-treatment base period. The command allows inclusion of control variables, including pre-treatment lags of the outcome. 
 
@@ -24,7 +24,10 @@ abstract: LPDID performs the Local Projections Difference-in-Differences estimat
 #summary: 
 
 tags:
-- Stata, Diff-in-Diff, Local Projections, Econometrics
+- Stata
+- Diff-in-Diff
+- Local Projections
+- Econometrics
 featured: false
 
 links:
@@ -32,12 +35,12 @@ links:
   url: https://econpapers.repec.org/software/bocbocode/S459273.htm
 url_pdf: ''
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
