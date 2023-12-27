@@ -3,11 +3,11 @@ title: "Shortening Childhood: The Labor Market Returns to a Compressed Education
 authors: 
 - admin
 author_notes:
-date: "2023-12-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,10 +24,9 @@ abstract: What is the impact of "compressing" education -- teaching the same con
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+- Labour Economics
 - Economics of Education
 - Returns to Education
-- Compressed Education
-- Germany
 featured: false
 
 # links:
@@ -63,3 +62,13 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

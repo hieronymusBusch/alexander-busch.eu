@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: forest
-  theme_night: forest
+  theme: forest
+  day_night: true
   font: minimal
   font_size: L
 
@@ -47,9 +47,9 @@ footer:
   copyright:
     notice: '© {year} Alexander Busch. Research interests: Labour Economics, Industrial Relations, Economics of Education.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
