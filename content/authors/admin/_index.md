@@ -14,7 +14,7 @@ role: Pre-doctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MIT & UC Berkeley, IZA
+  - name: MIT & UC Berkeley
     #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,7 +66,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:contact@alexander-busch.eu'
+  link: 'mailto:busch@iza.org'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:alexander1busch@gmail.com'
@@ -91,7 +91,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a "pre-doc" at UC Berkeley & MIT. Previously, I studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town east of Frankfurt, Germany. 
+I am a "pre-doc" at UC Berkeley & MIT, based in Berkeley. Previously, I studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town east of Frankfurt, Germany. 
 
 My interests are in Microeconomics and Labour Economics - especially education and industrial relations. In current projects, I evaluate the economic impact of strikes, worker co-management, and education policies. 
 
