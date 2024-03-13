@@ -1,6 +1,6 @@
 ---
-title: Interview with Bayerischer Rundfunk 24
-subtitle: Short interview with regional TV station on recent strikes in Germany. 
+title: TV Interview with BR 24
+subtitle: Brief interview with TV station on recent strikes in Germany. 
 
 # Summary for listings and search engines
 summary: BR24 TV Interview on strikes in Germany. 
@@ -12,7 +12,7 @@ projects: []
 date: "2024-03-07T00:00:00Z"
 
 # Date updated
-lastmod: "2024-03-07T00:00:00Z"
+lastmod: "2024-07-03T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -32,7 +32,7 @@ authors:
 - Alexander Busch
 
 tags:
-- academic
+- media
 
 categories:
 - media
