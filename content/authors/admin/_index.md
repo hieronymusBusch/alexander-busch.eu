@@ -93,7 +93,7 @@ highlight_name: true
 ---
 I am a "pre-doc" at UC Berkeley & MIT, based in Berkeley. This autumn, I will join the IWER group at MIT for my PhD. Previously, I studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town east of Frankfurt, Germany. 
 
-My interests are in Microeconomics and Labour Economics - especially education and industrial relations. In current projects, I evaluate the economic impact of strikes, worker co-management, and education policies. 
+My interests are in Microeconomics and Labour Economics - especially industrial relations and education. In current projects, I evaluate the economic impact of strikes, worker co-management, and education policies. 
 
 Jointly with Chantal Pezold, I also run an online reading group on labour market institutions for PhD students and post-docs. While we keep this group at a limited size to allow for productive discussions, feel free to reach out if you are interested in joining. 
 

@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Welcome
+      title:  
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
@@ -55,7 +55,7 @@ sections:
       title: Contact
       subtitle:
       text: ''
-      email: busch@iza.org
+      email: abusch@mit.edu
       email: alexander1busch@gmail.com
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
