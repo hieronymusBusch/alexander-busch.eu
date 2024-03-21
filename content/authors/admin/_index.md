@@ -66,7 +66,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:busch@iza.org'
+  link: 'mailto:abusch@mit.edu'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:alexander1busch@gmail.com'
