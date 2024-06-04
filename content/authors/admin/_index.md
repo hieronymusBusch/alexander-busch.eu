@@ -79,6 +79,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/busch--alexander/
+- icon: google-scholar
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=JVWjHsAAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -99,6 +102,6 @@ Jointly with Chantal Pezold, I also run an online reading group on labour market
 
 Outside academia, I had the privilege to work on evidence-based policy advocacy at the German Ministry of Finance, ver.di (united services trade union), and the German and Hessian Parliaments. I am teamlead of climate policy at Fiscal Future, a Berlin-based think tank for progressive fiscal policy. 
 
-Please cc both e-mail addresses and note that I am on the US west coast if you require a timely response! 
+Please cc both e-mail addresses and note that I may not be in your timezone if you require a timely response! 
 
 {style="text-align: justify;"}
