@@ -136,9 +136,6 @@ https://webs.uab.cat/incasi/en/european-data-sources/
 
 
 
-<b> A great resource for further data on the German labour market is the FDZ-Methodenreport ''Vorbereitende Forschung für die zweite Evaluationsrunde Mindestlöhne'' [in German] </b> 
-https://doku.iab.de/fdz/reporte/2014/MR_03-14.pdf <br>
-
 
 
 
