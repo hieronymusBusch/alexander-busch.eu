@@ -10,25 +10,26 @@ last_name: Busch
 superuser: true
 
 # Role/position/tagline
-role: Pre-doctoral Research Associate
+role: PhD Student in Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MIT & UC Berkeley
-    #url: https://www.stanford.edu/
+  - name: Massachusetts Institute of Technology
+    url: https://mitsloan.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research concerns labour economics, especially industrial relations and education. 
+bio: I am a PhD student at MIT researching labour market institutions such as trade unions and collective bargaining. 
 
 # Interests to show in About widget
 interests:
   - Labour Economics
   - Industrial Relations
-  - Economics of Education 
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Management
+    institution: MIT Sloan School of Management
   - course: MSc in Economics
     institution: The London School of Economics and Political Science
     year: 2022
@@ -79,9 +80,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/busch--alexander/
-- icon: google-scholar
-  icon_pack: fab
-  link: https://scholar.google.com/citations?user=JVWjHsAAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -94,14 +92,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a "pre-doc" at UC Berkeley & MIT, based in Berkeley. This autumn, I will join the IWER group at MIT for my PhD. Previously, I studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town east of Frankfurt, Germany. 
+I am a PhD student at the Institute for Work and Employment Research of MIT Sloan. Previously, I worked as a pre-doc at UC Berkeley/MIT/IZA Bonn and studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town east of Frankfurt, Germany. 
 
-My interests are in Microeconomics and Labour Economics - especially industrial relations and education. In current projects, I evaluate the economic impact of strikes, worker co-management, and education policies. 
+My research assesses how institutions such as trade unions and employer associations shape the labour market. In current projects I evaluate the economic impact of strikes, worker co-management, and sectoral bargaining. 
 
-Jointly with Chantal Pezold, I also run an online reading group on labour market institutions for PhD students and post-docs. While we keep this group at a limited size to allow for productive discussions, feel free to reach out if you are interested in joining. 
-
-Outside academia, I had the privilege to work on evidence-based policy advocacy at the German Ministry of Finance, ver.di (united services trade union), and the German and Hessian Parliaments. I am teamlead of climate policy at Fiscal Future, a Berlin-based think tank for progressive fiscal policy. 
-
-Please cc both e-mail addresses and note that I may not be in your timezone if you require a timely response! 
+Please cc both e-mail addresses and note that I am on the US east coast if you require a timely response. 
 
 {style="text-align: justify;"}
