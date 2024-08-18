@@ -38,9 +38,10 @@ categories:
 - media
 ---
 
-To the best of my knowledge, RTL Aktuell does not make its episodes freely available. I also regret that the interview was reduced to a short snippet which I feel does not accurately present the nuance of my complete statement.  </b> 
+<b> To the best of my knowledge, RTL Aktuell does not make its episodes freely available. I also regret that the interview was reduced to a short snippet which I feel does not accurately present the nuance of my complete statement.  </b> <br>
 
 
+#https://www.br.de/br-fernsehen/sendungen/rundschau/rm-interview-alexander-busch-streik-gdl-lufthansa-100.html <br>
 
 
 
