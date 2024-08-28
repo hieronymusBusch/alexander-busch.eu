@@ -15,7 +15,7 @@ role: PhD Student in Management
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Massachusetts Institute of Technology
-    url: https://mitsloan.mit.edu/
+    url: https://mitsloan.mit.edu/programs/phd/alexander-busch
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student at MIT researching labour market institutions such as trade unions and collective bargaining. 
@@ -30,6 +30,7 @@ education:
   courses:
   - course: PhD in Management
     institution: MIT Sloan School of Management
+    year: since 2024
   - course: MSc in Economics
     institution: The London School of Economics and Political Science
     year: 2022
