@@ -83,11 +83,11 @@ social:
   link: https://www.linkedin.com/in/busch--alexander/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# To use: copy your resume to `static/uploads/Alexander_Busch_CV.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/Alexander_Busch_CV.pdf
 
 
 # Highlight the author in author lists? (true/false)

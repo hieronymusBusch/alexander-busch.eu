@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Alexander Busch'
-    description: 'Personal webpage of Alexander Busch, Predoc at UC Berkeley and IZA Bonn'
+    description: 'Personal webpage of Alexander Busch, PhD Student at MIT Sloan'
     twitter: 'https://mobile.twitter.com/_AlexanderBusch'
   analytics:
     google_analytics: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Alexander Busch. Research interests: Labour Economics, Industrial Relations, Economics of Education.'
+    notice: '© {year} Alexander Busch. PhD Student at MIT Sloan, researching labor economics, industrial relations, and economics of education.'
     license:
       enable: true
       allow_derivatives: false
