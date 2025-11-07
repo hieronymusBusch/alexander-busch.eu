@@ -1,5 +1,5 @@
 ---
-title: "A Day in Life" at MIT Sloan
+title: A Day in Life at MIT Sloan
 subtitle: Interview with MIT Sloan about my life as PhD student. 
 
 # Summary for listings and search engines
