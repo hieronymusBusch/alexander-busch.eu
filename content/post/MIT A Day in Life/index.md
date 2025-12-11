@@ -38,7 +38,14 @@ categories:
 - media
 ---
 
+My interview was published on the websites of MIT Sloan and  MIT news: 
+
+https://mitsloan.mit.edu/programs/phd/a-day-phd-student-alex-busch
+
+https://news.mit.edu/2025/day-in-the-life-phd-student-alex-busch-1210
+
   </b> 
+
 
 
 
