@@ -100,7 +100,7 @@ highlight_name: true
 ---
 I am a PhD student at the Institute for Work and Employment Research of MIT Sloan. Previously, I worked as pre-doc for Simon Jäger and Benjamin Schoefer at MIT/UC Berkeley and studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. 
 
-My research assesses how organized labor shapes the labor market. In current projects I evaluate the economic impact of strikes, sectoral bargaining, and the impact of unions on gender inequality. 
+My research assesses how organized labor shapes work through strikes, (sectoral) bargaining, and shopfloor representation. 
 
 Please cc both e-mail addresses and note that I am on the US east coast if you require a timely response. 
 
