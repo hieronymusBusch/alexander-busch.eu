@@ -18,12 +18,13 @@ organizations:
     url: https://mitsloan.mit.edu/programs/phd/alexander-busch
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at MIT researching labour market institutions such as trade unions and collective bargaining. 
+bio: I am a PhD student at MIT researching labor market institutions such as trade unions and collective bargaining. 
 
 # Interests to show in About widget
 interests:
-  - Labour Economics
-  - Industrial Relations
+  - Labor Economics
+  - Labor Relations
+  - Wage Inequality
 
 # Education to show in About widget
 education:
@@ -81,6 +82,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/busch--alexander/
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/alexanderbusch.bsky.social
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/Alexander_Busch_CV.pdf`, enable `ai` icons in `params.toml`,
@@ -93,9 +98,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student at the Institute for Work and Employment Research of MIT Sloan. Previously, I worked as a pre-doc at UC Berkeley/MIT/IZA Bonn and studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. I grew up in Gelnhausen, a lovely town east of Frankfurt, Germany. 
+I am a PhD student at the Institute for Work and Employment Research of MIT Sloan. Previously, I worked as pre-doc for Simon Jäger and Benjamin Schoefer at MIT/UC Berkeley and studied Economics and Sociology at the LSE, Heidelberg University, and Goethe University Frankfurt. 
 
-My research assesses how institutions such as trade unions and employer associations shape the labour market. In current projects I evaluate the economic impact of strikes, worker co-management, and sectoral bargaining. 
+My research assesses how organized labor shapes the labor market. In current projects I evaluate the economic impact of strikes, sectoral bargaining, and the impact of unions on gender inequality. 
 
 Please cc both e-mail addresses and note that I am on the US east coast if you require a timely response. 
 
