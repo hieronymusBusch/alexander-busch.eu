@@ -1,0 +1,406 @@
+/* ============================================================
+   alexander-busch.eu — one stylesheet for the whole site
+   ------------------------------------------------------------
+   All colors and fonts are defined as variables in the three
+   blocks below. The two dark blocks must stay identical: one
+   applies when the visitor clicked the toggle, the other when
+   their operating system prefers dark mode.
+   ============================================================ */
+
+:root {
+  --bg:      #ffffff;
+  --text:    #23282c;
+  --muted:   #5d6871;
+  --accent:  #176e4b;   /* deep green */
+  --border:  #e3e7e5;
+  --surface: #f5f7f6;   /* background of abstract / BibTeX boxes */
+
+  --serif: Charter, "Bitstream Charter", "Iowan Old Style", "Sitka Text", Cambria, Georgia, serif;
+  --sans:  system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  --mono:  ui-monospace, "Cascadia Code", Consolas, Menlo, monospace;
+}
+
+/* Dark theme, selected with the toggle button */
+[data-theme="dark"] {
+  --bg:      #15181a;
+  --text:    #d8dcde;
+  --muted:   #96a1a9;
+  --accent:  #6cc59d;
+  --border:  #2b3134;
+  --surface: #1c2124;
+}
+
+/* Dark theme, following the operating system (toggle not used) */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:      #15181a;
+    --text:    #d8dcde;
+    --muted:   #96a1a9;
+    --accent:  #6cc59d;
+    --border:  #2b3134;
+    --surface: #1c2124;
+  }
+}
+
+/* ---------- base ------------------------------------------- */
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0 auto;
+  max-width: 44rem;
+  padding: 0 1.25rem 3rem;
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  color: var(--text);
+  background: var(--bg);
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+a:hover { text-decoration-thickness: 2px; }
+
+img { max-width: 100%; }
+
+/* Anchor targets stop below the sticky header instead of underneath it */
+section { scroll-margin-top: 4.5rem; }
+
+h1, h2, h3 {
+  font-family: var(--serif);
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin: 2.75rem 0 1.1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Page title on the subpages (Media, Data, Impressum) */
+.page-title { font-size: 1.3rem; margin: 0 0 0.4rem; }
+
+h3 {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin: 1.9rem 0 0.9rem;
+}
+
+/* ---------- header ----------------------------------------- */
+
+.site-header {
+  position: sticky;   /* header stays visible while scrolling */
+  top: 0;
+  z-index: 50;
+  background: var(--bg);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem 0.9rem;
+  padding: 1.05rem 0 0.85rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 2rem;
+}
+
+.site-name {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin: 0 auto 0 0;   /* pushes nav and buttons to the right */
+}
+.site-name a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 1.05rem;
+  font-family: var(--sans);
+  font-size: 0.92rem;
+}
+.site-nav a {
+  color: var(--muted);
+  text-decoration: none;
+}
+.site-nav a:hover { color: var(--accent); }
+
+#theme-toggle {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--muted);
+  width: 1.85rem;
+  height: 1.85rem;
+  line-height: 1;
+  font-size: 0.9rem;
+  cursor: pointer;
+  padding: 0;
+}
+#theme-toggle:hover { color: var(--accent); border-color: var(--accent); }
+
+/* ☰ button; only shown on narrow screens (see media query below) */
+.nav-burger {
+  display: none;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  width: 1.85rem;
+  height: 1.85rem;
+  padding: 0;
+  cursor: pointer;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+}
+.nav-burger span {
+  display: block;
+  width: 0.9rem;
+  height: 1.5px;
+  background: var(--muted);
+}
+.nav-burger:hover { border-color: var(--accent); }
+.nav-burger:hover span { background: var(--accent); }
+
+/* Show ☾ in light mode, ☀ in dark mode */
+#theme-toggle .sun  { display: none; }
+[data-theme="dark"] #theme-toggle .moon { display: none; }
+[data-theme="dark"] #theme-toggle .sun  { display: inline; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) #theme-toggle .moon { display: none; }
+  :root:not([data-theme="light"]) #theme-toggle .sun  { display: inline; }
+}
+
+/* ---------- about ------------------------------------------ */
+
+.about {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+.about-text { flex: 1; }
+.about-text p:first-child { margin-top: 0.2rem; }
+
+.portrait {
+  width: 158px;
+  height: auto;      /* keeps the aspect ratio at every window size */
+  border-radius: 6px;
+  flex-shrink: 0;
+  margin-top: 0.4rem;
+}
+
+.contact-links {
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  margin: 1.3rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.65rem;
+}
+.contact-links a { text-decoration: none; }
+.contact-links a:hover { text-decoration: underline; }
+.contact-links .sep { color: var(--border); }
+
+.edu {
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  color: var(--muted);
+  list-style: none;
+  padding: 0;
+  margin: 0.2rem 0 0;   /* the "Education" heading above provides the spacing */
+}
+.edu li { margin: 0.15rem 0; }
+
+.note {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+/* ---------- publications ----------------------------------- */
+
+.pub { margin: 0 0 1.9rem; }
+
+.pub-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.45;
+  margin: 0;
+}
+.pub-title a { color: var(--text); }
+
+.pub-authors {
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  color: var(--muted);
+  margin: 0.1rem 0 0;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0.1rem 0 0.25rem;
+}
+
+.pub-links,
+.pub details {
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  margin: 0.15rem 0 0;
+}
+.pub-links { display: flex; flex-wrap: wrap; gap: 0.2rem 1rem; }
+
+.pub summary {
+  color: var(--accent);
+  cursor: pointer;
+  list-style: none;
+  width: fit-content;
+}
+.pub summary::-webkit-details-marker { display: none; }
+.pub summary::before { content: "▸ "; font-size: 0.75em; }
+.pub details[open] > summary::before { content: "▾ "; }
+.pub summary:hover { text-decoration: underline; }
+
+.abstract-body {
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  margin: 0.5rem 0 0.25rem;
+  padding: 0.55rem 0.9rem;
+  border-left: 3px solid var(--accent);
+  background: var(--surface);
+}
+
+.bibtex { position: relative; margin-top: 0.5rem; }
+.bibtex pre {
+  margin: 0;
+  padding: 0.7rem 0.9rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow-x: auto;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  line-height: 1.55;
+}
+.copy-bib {
+  position: absolute;
+  top: 0.45rem;
+  right: 0.45rem;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  color: var(--muted);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 0.15rem 0.5rem;
+  cursor: pointer;
+}
+.copy-bib:hover { color: var(--accent); border-color: var(--accent); }
+
+/* ---------- teaching --------------------------------------- */
+
+.teach-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem;
+}
+.teach-list li { margin: 0.25rem 0; }
+
+/* ---------- media ------------------------------------------ */
+
+.media-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.media-list li {
+  display: grid;
+  grid-template-columns: 5.6rem 1fr;
+  gap: 1rem;
+  margin: 0 0 0.95rem;
+}
+.media-date {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--muted);
+  padding-top: 0.15rem;
+  white-space: nowrap;
+}
+.media-body { min-width: 0; }
+.media-outlet { font-weight: 600; }
+.media-links {
+  font-family: var(--sans);
+  font-size: 0.88rem;
+}
+
+/* ---------- data page -------------------------------------- */
+
+.data-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+}
+.data-list li { margin: 0 0 0.85rem; }
+.data-list .desc {
+  display: block;
+  font-size: 0.93rem;
+  color: var(--muted);
+}
+
+/* ---------- footer ----------------------------------------- */
+
+.site-footer {
+  margin-top: 3.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  font-family: var(--sans);
+  font-size: 0.83rem;
+  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.6rem;
+}
+.site-footer a { color: var(--muted); }
+.site-footer a:hover { color: var(--accent); }
+
+/* ---------- small screens ---------------------------------- */
+
+/* Collapse the nav into the ☰ menu when it no longer fits on one line */
+@media (max-width: 720px) {
+  .nav-burger { display: flex; }
+  .site-nav { display: none; }
+  .site-header.nav-open .site-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.6rem;
+    width: 100%;
+    order: 10;
+    padding: 0.4rem 0 0.6rem;
+  }
+}
+
+@media (max-width: 620px) {
+  body { font-size: 1rem; }
+  .about { flex-direction: column-reverse; gap: 1.1rem; }
+  .portrait { width: 132px; }
+  .media-list li {
+    grid-template-columns: 1fr;
+    gap: 0.05rem;
+    margin-bottom: 1.1rem;
+  }
+}

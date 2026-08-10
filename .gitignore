@@ -1,11 +1,6 @@
-# IDEs
+# Local tool configuration
+.claude/
 .idea/
 
-# Hugo
-resources/
-public/
-jsconfig.json
-node_modules/
-go.sum
-.hugo_build.lock
-.Rproj.user
+# Pre-merge draft folder from the redesign (superseded by the repo root)
+redesign/

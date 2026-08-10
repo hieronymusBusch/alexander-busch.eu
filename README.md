@@ -1,46 +1,162 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# alexander-busch.eu
 
-[![Screenshot](./preview.png)](https://hugoblox.com/templates/)
+Personal academic website. **Plain HTML/CSS with a tiny bit of JavaScript — no
+Hugo, no theme, no build step.** What is in this repository is exactly what
+Netlify serves.
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+Publishing works like this: edit a file → commit → push to `main` → Netlify
+deploys automatically within ~30 seconds. If something breaks, open the site in
+Netlify → *Deploys* → pick the previous deploy → "Publish deploy" (one-click
+rollback).
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+## What is where
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+| File | Contents |
+|---|---|
+| `index.html` | Main page: about, education, research, teaching |
+| `media.html` | Interviews and press appearances |
+| `data.html` | German data-links collection |
+| `privacy.html` | Impressum & Datenschutz |
+| `styles.css` | All styling — colors and fonts are variables at the top |
+| `script.js` | Theme toggle, mobile ☰ menu, BibTeX copy, external links in new tabs |
+| `assets/portrait.jpg` | Photo |
+| `uploads/Alexander_Busch_CV.pdf` | CV (this path is linked from old email signatures — keep the name) |
+| `netlify.toml` | Deploy config + redirects that keep old Hugo URLs alive |
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+Built-in behavior you don't need to maintain: the header stays visible while
+scrolling and collapses into a ☰ menu on narrow screens; external links open
+in a new tab automatically; dark/light mode follows the visitor's system and
+is overridable with the ☾/☀ toggle.
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+---
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## How to add a paper
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+In `index.html`, find the `Working papers` block. Copy the whole
+`<article class="pub"> … </article>` template below and paste it above or
+below the existing entries. Delete any line you don't need — an entry with
+only a title and venue line is fine.
 
-## We ask you, humbly, to support this open source movement
+```html
+<article class="pub">
+  <p class="pub-title">Full Paper Title Here</p>
+  <p class="pub-authors">with Coauthor One and Coauthor Two</p>   <!-- delete if solo-authored -->
+  <p class="pub-venue">Working paper — draft available on request</p>
+  <p class="pub-links">
+    <a href="uploads/papername.pdf">PDF</a>                        <!-- put the file in uploads/ -->
+    <a href="https://example.com/appendix.pdf">Online appendix</a> <!-- any extra links -->
+  </p>
+  <details>
+    <summary>Abstract</summary>
+    <p class="abstract-body">Abstract text goes here.</p>
+  </details>
+  <details>
+    <summary>BibTeX</summary>
+    <div class="bibtex">
+      <button class="copy-bib" type="button">Copy</button>
+<pre>@unpublished{busch2026keyword,
+  author = {Busch, Alexander},
+  title  = {Full Paper Title Here},
+  note   = {Working paper},
+  year   = {2026}
+}</pre>
+    </div>
+  </details>
+</article>
+```
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+When a paper is published, change the `pub-venue` line to the journal, e.g.
+`<p class="pub-venue">Journal of Labor Economics, 2027</p>`, move the entry to
+a `Publications` subsection (create one with `<h3>Publications</h3>` above the
+working papers), and switch the BibTeX entry type to `@article{…}` with
+`journal = {…}`, `volume`, `pages`.
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+For a work-in-progress project (title only, no links yet):
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+```html
+<article class="pub">
+  <p class="pub-title">Project title</p>
+  <p class="pub-authors">with Coauthor Name</p>
+</article>
+```
 
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
+## How to add a media item
 
-## Demo image credits
+In `media.html`, copy one `<li>` block inside `<ul class="media-list">` and
+edit it. Newest entries go on top.
 
-- [Unsplash](https://unsplash.com)
+```html
+<li>
+  <span class="media-date">Jan 2027</span>
+  <span class="media-body">
+    <span class="media-outlet">Outlet Name</span> — one-line description of the appearance.
+    <span class="media-links"><a href="https://link-to-the-piece">Watch</a></span>
+  </span>
+</li>
+```
 
-## Latest news
+Use `Listen` / `Read` instead of `Watch` as appropriate; if there is no public
+link, drop the `media-links` span and add
+`<span class="note">No public recording available.</span>` instead.
 
-<!--START_SECTION:news-->
-* [Hugo vs Quarto: Which One is Better for 2023?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;hugo-vs-quarto&#x2F;)
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-<!--END_SECTION:news-->
+## How to add a data link
+
+In `data.html`, copy one `<li>` in the fitting group (administrative / survey
+/ further lists):
+
+```html
+<li>
+  <a href="https://data-source-url">Name of the data source</a>
+  <span class="desc">One line on level of aggregation and what it contains.</span>
+</li>
+```
+
+## How to update the CV
+
+Overwrite `uploads/Alexander_Busch_CV.pdf` with the new file — **same
+filename** — commit, push. Every link to the CV keeps working, including old
+ones in email signatures.
+
+## How to update teaching / office hours
+
+In `index.html`, section `<section id="teaching">`: edit the two `<li>` lines
+for courses. The office-hours link is a placeholder — replace
+`https://calendar.app.google/REPLACE-WITH-YOUR-BOOKING-LINK` with your Google
+Calendar booking page (Google Calendar → Appointment schedules → Share → copy
+link).
+
+## How to add Google Scholar
+
+In `index.html`, the contact-links row has a commented-out Google Scholar
+line — fill in your profile ID and remove the comment markers.
+
+## How to change colors or fonts
+
+Everything lives at the top of `styles.css`: `--accent` is the green,
+`--serif`/`--sans` the font stacks. Light mode and dark mode each have their
+own block (the two dark blocks must stay identical).
+
+## Visitor statistics (no cookie banner needed)
+
+The site ships with a **commented-out GoatCounter snippet** at the bottom of
+each HTML page. GoatCounter is cookieless, so no EU consent banner is
+required. To enable: create a free account at <https://www.goatcounter.com>,
+pick a code, replace `MYCODE` in all four HTML files, remove the comment
+markers. Then update the footer line ("No cookies, no tracking.") to e.g.
+"No cookies · anonymous visit counts via GoatCounter" and mention it on
+`privacy.html`.
+
+## Preview locally
+
+```bash
+python -m http.server 8000
+```
+
+Then open <http://localhost:8000>. Double-clicking `index.html` also works for
+a quick look.
+
+## Old URLs
+
+`netlify.toml` 301-redirects the old Hugo paths (`/publication/…`, `/post/…`,
+`/privacy/…`) to their new locations, so links out in the wild keep working.
+Add new redirects there if pages ever move again.
