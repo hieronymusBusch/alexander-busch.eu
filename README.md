@@ -120,10 +120,9 @@ ones in email signatures.
 ## How to update teaching / office hours
 
 In `index.html`, section `<section id="teaching">`: edit the two `<li>` lines
-for courses. The office-hours link is a placeholder — replace
-`https://calendar.app.google/REPLACE-WITH-YOUR-BOOKING-LINK` with your Google
-Calendar booking page (Google Calendar → Appointment schedules → Share → copy
-link).
+for courses. Office-hours sign-up currently works by email; if you later
+prefer a Google Calendar booking page (Google Calendar → Appointment
+schedules → Share → copy link), swap the email sentence for that link.
 
 ## How to add Google Scholar
 
