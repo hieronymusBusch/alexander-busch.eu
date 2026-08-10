@@ -1,8 +1,9 @@
 # Static site — Netlify serves the files as they are, no build step.
-# (When this folder becomes the repo root, this file replaces the old
-# Hugo netlify.toml.)
+# The command below is a deliberate no-op: an EMPTY command would make
+# Netlify fall back to the legacy Hugo build command still stored in the
+# project's UI settings, which fails now that the Hugo files are gone.
 [build]
-  command = ""
+  command = "echo 'Static site - nothing to build'"
   publish = "."
 
 # Old Hugo URLs keep working after the switch.
