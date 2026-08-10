@@ -32,10 +32,12 @@ is overridable with the ☾/☀ toggle.
 
 ## How to add a paper
 
-In `index.html`, find the `Working papers` block. Copy the whole
-`<article class="pub"> … </article>` template below and paste it above or
-below the existing entries. Delete any line you don't need — an entry with
-only a title and venue line is fine.
+In `index.html`, inside the Research section, there is a comment marking
+where working papers go — add an `<h3>Working papers</h3>` heading there
+(if not already present) and paste the `<article class="pub">` template
+below. Delete any line you don't need — an entry with only a title and
+venue line is fine. Work-in-progress and Software entries use the same
+block.
 
 ```html
 <article class="pub">
