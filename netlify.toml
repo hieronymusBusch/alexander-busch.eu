@@ -1,21 +1,31 @@
+# Static site — Netlify serves the files as they are, no build step.
+# (When this folder becomes the repo root, this file replaces the old
+# Hugo netlify.toml.)
 [build]
-  command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  command = ""
+  publish = "."
 
-[build.environment]
-  HUGO_VERSION = "0.119.0"
-  HUGO_ENABLEGITINFO = "true"
+# Old Hugo URLs keep working after the switch.
+# Order matters: more specific rules must come first.
+[[redirects]]
+  from = "/post/links/*"
+  to = "/data.html"
+  status = 301
 
-[context.production.environment]
-  HUGO_ENV = "production"
+[[redirects]]
+  from = "/post/*"
+  to = "/media.html"
+  status = 301
 
-[context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+[[redirects]]
+  from = "/publication/*"
+  to = "/#research"
+  status = 301
 
-[context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+[[redirects]]
+  from = "/privacy/*"
+  to = "/privacy.html"
+  status = 301
 
-[[plugins]]
-  package = "netlify-plugin-hugo-cache-resources"
-  [plugins.inputs]
-    debug = true
+# The CV keeps its old path (/uploads/Alexander_Busch_CV.pdf),
+# so links in email signatures etc. continue to work unchanged.
