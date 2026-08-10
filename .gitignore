@@ -1,6 +1,3 @@
 # Local tool configuration
 .claude/
 .idea/
-
-# Pre-merge draft folder from the redesign (superseded by the repo root)
-redesign/
