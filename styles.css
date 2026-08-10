@@ -50,10 +50,12 @@ html { scroll-behavior: smooth; }
 
 body {
   margin: 0 auto;
-  max-width: 44rem;
+  /* Width of the whole text column (1rem = 16px, so 50rem = 800px).
+     Raise or lower this one value to make the site wider or narrower. */
+  max-width: 50rem;
   padding: 0 1.25rem 3rem;
   font-family: var(--serif);
-  font-size: 1.0625rem;
+  font-size: 1.125rem;
   line-height: 1.65;
   color: var(--text);
   background: var(--bg);
