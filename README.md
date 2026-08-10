@@ -137,13 +137,12 @@ own block (the two dark blocks must stay identical).
 
 ## Visitor statistics (no cookie banner needed)
 
-The site ships with a **commented-out GoatCounter snippet** at the bottom of
-each HTML page. GoatCounter is cookieless, so no EU consent banner is
-required. To enable: create a free account at <https://www.goatcounter.com>,
-pick a code, replace `MYCODE` in all four HTML files, remove the comment
-markers. Then update the footer line ("No cookies, no tracking.") to e.g.
-"No cookies · anonymous visit counts via GoatCounter" and mention it on
-`privacy.html`.
+Visitor counting runs on **GoatCounter** (cookieless, so no EU consent
+banner is required): each HTML page reports anonymous page views via the
+`data-goatcounter` script at the bottom. **Dashboard:**
+<https://busch.goatcounter.com> — log in with the GoatCounter account; the
+front view shows visitors per day/week/month and per page. To disable,
+remove that script line from the four HTML files.
 
 ## Preview locally
 
