@@ -117,7 +117,9 @@ In `data.html`, copy one `<li>` in the fitting group (administrative / survey
 
 Overwrite `uploads/Alexander_Busch_CV.pdf` with the new file — **same
 filename** — commit, push. Every link to the CV keeps working, including old
-ones in email signatures.
+ones in email signatures. Dated archive copies (e.g.
+`Alexander_Busch_CV_2026.pdf`) may sit in `uploads/` too; they are kept but
+not linked from anywhere.
 
 ## How to update teaching / office hours
 
